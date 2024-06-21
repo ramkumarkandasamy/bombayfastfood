@@ -2,10 +2,10 @@
 let cart = [];
 // This is my bod id:6043250755:AAFmSyi8jj5U_xxwwEbRoUhzB0xTULAtc4Y
 // chad_id: 1900968004
-var telegram_bot_id = "7285099423:AAFR332Ya2mYw8D1c27vk0txmhT1ZFZ6hBg";//"7285099423:AAFR332Ya2mYw8D1c27vk0txmhT1ZFZ6hBg"; 
+//var telegram_bot_id = "7285099423:AAFR332Ya2mYw8D1c27vk0txmhT1ZFZ6hBg";//"7285099423:AAFR332Ya2mYw8D1c27vk0txmhT1ZFZ6hBg"; 
 //"6043250755:AAFmSyi8jj5U_xxwwEbRoUhzB0xTULAtc4Y"; //"7285099423:AAFR332Ya2mYw8D1c27vk0txmht1ZFZ6hBg"; 
 // ////"1949574883:AAG-88xhsq8h0rBEUxf_Ra7NDjU_408JL-E";///
-var chat_id = "1604007722"; //""; //1900968004; //1604007722; //; ////1467252650;
+//var chat_id = "1604007722"; //""; //1900968004; //1604007722; //; ////1467252650;
 //var u_name, phone, email, message;
 var message;
 
